@@ -1,0 +1,14 @@
+student tabelis võiks olla lisaveerud, nagu:
+
+email (kontaktandmed)
+phone_number (telefoninumber)
+enrollment_date (liitumiskuupäev)
+stgroup tabelis võiks olla lisaveerud, nagu:
+
+group_leader (grupi juhataja)
+formation_date (grupi moodustamise kuupäev)
+Kogutavad andmed:
+
+Lisaks praegustele andmetele võiks koguda näiteks:
+Tudengite aadressi ja kontaktandmeid.
+Kursuste algus- ja lõppkuupäevi.
